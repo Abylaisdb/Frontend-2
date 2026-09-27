@@ -11,8 +11,8 @@ This project demonstrates the practical application of modern CSS layout technol
 ---
 
 ## 🚀 Live Demo & Repository Links
-* **Live Webpage (GitHub Pages):** https://github.com/Abylaisdb/Frontend-2
-* **GitHub Repository:**
+* **Live Webpage (GitHub Pages):** https://abylaisdb.github.io/Frontend-2/
+* **GitHub Repository:** https://github.com/Abylaisdb/Frontend-2
 
 ---
 
@@ -37,8 +37,7 @@ The project is split across separate HTML pages linked by a unified navigation h
 
 ---
 
-
 ## 📝 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/USERNAME/REPOSITORY.git](https://github.com/USERNAME/REPOSITORY.git)
+   git clone [https://github.com/Abylaisdb/Frontend-2.git](https://github.com/Abylaisdb/Frontend-2.git)
